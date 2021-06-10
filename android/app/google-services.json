@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "317386640729",
+    "firebase_url": "https://northwest-reverse-mortga-d5dd0-default-rtdb.firebaseio.com",
+    "project_id": "northwest-reverse-mortga-d5dd0",
+    "storage_bucket": "northwest-reverse-mortga-d5dd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317386640729:android:8269a727101c4b80771048",
+        "android_client_info": {
+          "package_name": "com.hassan.northwest_reverse_mortgage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317386640729-3i6khf4h8daeia2a1orjs13j81hg8pi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hassan.northwest_reverse_mortgage",
+            "certificate_hash": "a38e75bc78f57ab76e91317120445129ba6d45ca"
+          }
+        },
+        {
+          "client_id": "317386640729-el8jeo49elta7jl4rdm6paaks0lbvbso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hassan.northwest_reverse_mortgage",
+            "certificate_hash": "bc0cbf9062896b59c22e63101bb302cef893ef3c"
+          }
+        },
+        {
+          "client_id": "317386640729-o1idibkul7vedim2oc8fneus3hmb3m34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfKaiWVrCO8r9iOKEPbsiMWfSGz_NSo2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317386640729-o1idibkul7vedim2oc8fneus3hmb3m34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
