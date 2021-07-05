@@ -3,11 +3,18 @@
 Estimate how much a reverse mortgage can get you on both a refinance or a purchase transaction
 <div align="center">
     <img src="images/Screenshot_1620457126.png" width="400px" >
+</div>
+<div align="center">
     <img src="images/Screenshot_1620457144.png" width="400px" >
+</div>
+<div align="center">
     <img src="images/Screenshot_1620457157.png" width="400px" >
+
+</div>
+<div align="center">
     <img src="images/Screenshot_1620457261.png" width="400px" >
 </div>
-
+    
 
 ## Getting Started
 
